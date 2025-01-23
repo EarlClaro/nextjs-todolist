@@ -24,10 +24,19 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    margin: 0; 
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+
+
+polygon { 
+  fill: white; 
+  stroke-width: 1;
+  stroke: #000;
 }

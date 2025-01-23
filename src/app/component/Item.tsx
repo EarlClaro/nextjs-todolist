@@ -49,7 +49,7 @@ export default function Item(props:any) {
     };
 
     return (
-        <li className="bg-gray-900 rounded-xl py-3 px-2 md:px-5 md:py-3 w-full max-w-[700px] hover:shadow-xl">
+        <li className="bg-gray-500 rounded-xl py-3 px-2 md:px-5 md:py-3 w-full max-w-[700px] hover:shadow-xl">
             <div className="task-title flex justify-between items-center ">
                 <div className="left flex items-center grow">
                     {/* Menu Icon */}
