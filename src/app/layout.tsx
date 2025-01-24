@@ -6,7 +6,7 @@ const mukta = Mukta({ subsets: ["latin"], weight: "400"});
 
 export const metadata: Metadata = {
   title: "To Do List",
-  description: "Simple and robust to do list created by Arpit Tyagi using Next.js, typescript and Tailwind CSS.",
+  description: "Simple and robust to do list created by Earl using Next.js, typescript and Tailwind CSS.",
 };
 
 export default function RootLayout({
